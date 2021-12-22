@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Burak
+- 👀 I’m interested in game development and machine learning
+- 🌱 I’m currently learning c#
